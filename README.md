@@ -21,4 +21,6 @@
  F: PCIe通道正向连接 / PCIe lane sequential connection  
  R: PCIe通道反向连接 / PCIe lane reverse connection
  
+ 1/2/4/8/16: PCIe通道数 / PCIe Lanes  
+ 
  V0.1: 版本号 / Version
