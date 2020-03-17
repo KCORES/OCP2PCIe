@@ -58,7 +58,7 @@ OCP规范需要5V辅助供电，目前已知情况如下：
 
 - 不需要5V  
  Don't need 5V
-    - ntel X540
+    - Intel X540
 
 - 需要5V，但5V电路元器件与12V一致，可以直接与12V连接  
  5V is required, but the 5V circuit components are consistent with 12V and can be directly connected to 12V
