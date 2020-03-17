@@ -21,7 +21,7 @@ Project classification, see the next section
 # Name Rule
  **文件命名规则**  
  
- `OCP2PCIe-H-F-4-V0.1`  
+ `OCP2PCIe-H-F-4-V0.1`  @
  
  - OCP2PCIe 项目名称 / Project Name  
  
