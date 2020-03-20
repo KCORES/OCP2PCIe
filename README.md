@@ -8,12 +8,12 @@
 **用户指南**  
 
 如果你想快速制作自己的OCP转接卡，请到[发行页面](https://github.com/KCORES/OCP2PCIe/releases)下载已发布的 Gerber 文件包  
-并按[用户指南](doc\UserGuide_zh.md)准备相应的零件
+并按[用户指南](doc/UserGuide_zh.md)准备相应的零件
 
 # For Developer
 **开发者指南**
 
-**[Link](doc\DevGuide_zh.md)**
+**[Link](doc/DevGuide_zh.md)**
 
 # 最近动态
 
