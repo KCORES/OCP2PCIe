@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "OCP Project")(type Legacy)(uri "${KIPRJMOD}/OCP Project.lib")(options "")(descr ""))
+)
