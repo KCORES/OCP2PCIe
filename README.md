@@ -26,4 +26,4 @@ OCP2PCIe Lib has been updated, now you can create OCP2PCIe design easily.
 不过考虑到小批量钣金加工的成本，可能只有等JS量产了
 1. 上传了 OCP2PCIe Lib 现在可以更容易构建你自己的转接卡
 1. 更新新版的ReadMe
-2. 发布 V1.0Beta
+2. 发布 V2.0Beta
