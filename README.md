@@ -1,6 +1,4 @@
-# Forked From:
-
-https://github.com/KCORES
+# Forked from [@KCORES](https://github.com/KCORES):
 
 [![.\DocRepo\Img\README\1.jpg](https://i.postimg.cc/jj0BVv5x/1.jpg)](https://github.com/KCORES)
 
